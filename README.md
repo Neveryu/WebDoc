@@ -10,4 +10,4 @@
 
 [RespondJS](Respond)
 
-[GithubMarkdown and emoji](GihubMarkdown)
+[GithubMarkdown and emoji](GithubMarkdown)
