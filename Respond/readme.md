@@ -100,4 +100,4 @@ if CSS files are encoded in UTF-8 with Byte-Order-Mark,they will not work with R
 ###Tips
 <b>always link stylesheets or write inline CSS before js scripts.</b>
 
-`respond.js`下载地址：[respond.js](respond.js).
+Respond.js on Github： [https://github.com/scottjehl/Respond](https://github.com/scottjehl/Respond).
