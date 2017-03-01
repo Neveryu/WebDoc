@@ -1,6 +1,4 @@
-# 一、《Node.js 包教不包会》 by alsotang
-
-## 课程列表
+# 一、《Node.js 包教不包会》 by alsotang 课程列表
 
 * Lesson 0: [《搭建 Node.js 开发环境》](https://github.com/alsotang/node-lessons/tree/master/lesson0)
 * Lesson 1: [《一个最简单的 express 应用》](https://github.com/alsotang/node-lessons/tree/master/lesson1)
