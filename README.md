@@ -6,10 +6,10 @@
 
 [JavaScript](JavaScript)
 
-[Blog](Blog)
-
 [RespondJS](Respond)
 
-[GithubMarkdown and emoji](GithubMarkdown)
+[Markdown 语法和 emoji表情](GithubMarkdown)
 
 [收藏的一些学习教程](tutorial)
+
+[博客文章](Blog)
