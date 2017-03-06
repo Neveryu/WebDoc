@@ -24,3 +24,11 @@
 # 二、Node.js API
 - [https://nodejs.org/api/](https://nodejs.org/api/)
 
+# 三、AMD
+- [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD-(%E4%B8%AD%E6%96%87%E7%89%88))
+- [AMD 中的 require()函数](https://github.com/amdjs/amdjs-api/wiki/require-(%E4%B8%AD%E6%96%87%E7%89%88))
+- [Loader Plugins](https://github.com/amdjs/amdjs-api/wiki/Loader-Plugins(%E4%B8%AD%E6%96%87%E7%89%88))
+
+# 四、阮一峰 JS 教程
+- [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
+
