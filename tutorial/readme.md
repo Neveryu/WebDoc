@@ -20,3 +20,15 @@
 * Lesson 17: [《使用 promise 替代回调函数》](https://github.com/alsotang/node-lessons/tree/master/lesson17) -- by [@eeandrew](https://github.com/eeandrew)
 * Lesson 18: [《何为 connect 中间件》](https://github.com/alsotang/node-lessons/tree/master/lesson18) -- by [@albin3](https://github.com/albin3)
 
+
+# 二、Node.js API
+- [https://nodejs.org/api/](https://nodejs.org/api/)
+
+# 三、AMD
+- [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD-(%E4%B8%AD%E6%96%87%E7%89%88))
+- [AMD 中的 require()函数](https://github.com/amdjs/amdjs-api/wiki/require-(%E4%B8%AD%E6%96%87%E7%89%88))
+- [Loader Plugins](https://github.com/amdjs/amdjs-api/wiki/Loader-Plugins(%E4%B8%AD%E6%96%87%E7%89%88))
+
+# 四、阮一峰 JS 教程
+- [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
+
