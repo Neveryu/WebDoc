@@ -20,3 +20,7 @@
 * Lesson 17: [《使用 promise 替代回调函数》](https://github.com/alsotang/node-lessons/tree/master/lesson17) -- by [@eeandrew](https://github.com/eeandrew)
 * Lesson 18: [《何为 connect 中间件》](https://github.com/alsotang/node-lessons/tree/master/lesson18) -- by [@albin3](https://github.com/albin3)
 
+
+# 二、Node.js API
+- [https://nodejs.org/api/](https://nodejs.org/api/)
+
