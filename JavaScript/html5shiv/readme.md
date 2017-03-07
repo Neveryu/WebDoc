@@ -81,7 +81,7 @@ article,aside,dialog,footer,header,section,footer,nav,figure,menu{
 * HTML5shiv is found within the `<head>` tag.
 * HTML5shiv is a javascript file that is referenced in a `<script>` tag.
 * You should usr HTML5shiv when you are using the new HTML5 element such as : `<header>,<footer>,<nav>,<aside>,<article>`
-* Download the latest version of HTML5shiv from [github](https://raw.githubusercontent.com/Neveryu/html5shiv/master/html5shiv.min.js) or reference the Open Source Software CDN version at `https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js` or `https://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.min.js`.
+* Download the latest version of HTML5shiv from [github](https://github.com/aFarkas/html5shiv/) or reference the Open Source Software CDN version at `https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js` or `https://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.min.js`.
 * You will require the HTML5shiv to provide compatibility for IE Browser older than IE 9.
 
 ## Example

@@ -1,3 +1,3 @@
-[respond.js](respond)
+[Respond.js](respond)
 
 [HTML5Shiv](html5shiv)
