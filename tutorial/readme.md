@@ -32,3 +32,7 @@
 # 四、阮一峰 JS 教程
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
 
+# 五、阮一峰 webpack 教程
+- [阮一峰 webpack 教程](https://github.com/ruanyf/webpack-demos)
+
+
