@@ -6,6 +6,8 @@
 |[https://github.com/dwqs/blog](https://github.com/dwqs/blog)|[阮一峰的个人网站](http://www.ruanyifeng.com/home.html)|
 |s|[NexT主题作者IIssNan博客](http://notes.iissnan.com/)|
 |s|[玉伯的博客](https://github.com/lifesinger/blog/issues)|
+|s|[万神劫的博客](http://chaoskeh.com/archive.html)|
+|s|[李炎恢的博客](http://www.liyanhui.com/)|
 
 ```
 更新中...
