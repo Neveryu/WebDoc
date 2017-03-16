@@ -35,4 +35,10 @@
 # 五、阮一峰 webpack 教程
 - [阮一峰 webpack 教程](https://github.com/ruanyf/webpack-demos)
 
+# 微信小应用的入门过程
+- [分享我用cnode社区api做微信小应用的入门过程](https://cnodejs.org/topic/57ea257b3670ca3f44c5beb6)
+
+# 前端资源教程
+- [前端资源教程](https://cnodejs.org/topic/56ef3edd532839c33a99d00e)
+
 
