@@ -8,6 +8,7 @@
 [饿了么前端博客](https://fe.ele.me/)|[玉伯的博客](https://github.com/lifesinger/blog/issues)
 s|[万神劫的博客](http://chaoskeh.com/archive.html)
 s|[李炎恢的博客](http://www.liyanhui.com/)
+s|[使用NexT主题的博客](https://github.com/iissnan/hexo-theme-next/issues/119)
 
 ```
 更新中...
