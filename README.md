@@ -1,12 +1,14 @@
 # WebDoc
 
-- [] Full stack Web developer
-- [] Back-end Web developer
-- [] Front-end Web developer
+- [ ] Full stack Web developer
+- [ ] Back-end Web developer
+- [ ] Front-end Web developer
 
 [HTML](HTML)
 [CSS](CSS)
 [JavaScript](JavaScript)
+
+[pure photo](pure-photo)
 
 [工具文档](tool-doc)
 [收藏的学习教程](tutorial)
@@ -17,4 +19,8 @@
 [知乎](zhihu)
 
 [Markdown 语法和 emoji表情](github-markdown)
+
+```
+更新中...
+```
 
