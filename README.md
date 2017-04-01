@@ -4,8 +4,8 @@
 - [ ] Back-end Web developer
 - [ ] Front-end Web developer
 
-[HTML](HTML)
-[CSS](CSS)
+[HTML](HTML)<br/>
+[CSS](CSS)<br/>
 [JavaScript](JavaScript)
 
 [pure photo](pure-photo)
