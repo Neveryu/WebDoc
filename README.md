@@ -8,14 +8,14 @@
 [CSS](CSS)<br/>
 [JavaScript](JavaScript)
 
-[pure photo](pure-photo)
+[pure photo & 纯净图片](pure-photo)
 
-[工具文档](tool-doc)
-[收藏的学习教程](tutorial)
+[工具文档](tool-doc)<br/>
+[收藏的学习教程](tutorial)<br/>
 [收藏的文章](post)
 
-[博客站点](blog)
-[访谈](interview)
+[博客站点](blog)<br/>
+[访谈](interview)<br/>
 [知乎](zhihu)
 
 [Markdown 语法和 emoji表情](github-markdown)
