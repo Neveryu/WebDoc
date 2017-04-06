@@ -1,4 +1,4 @@
-# 工具文档 - 查阅 - 手册
+# 文档 - 查阅 - 手册
 
 - jQuery
 *[jQuery API 中文查阅手册](http://www.css88.com/jqapi-1.9/)
