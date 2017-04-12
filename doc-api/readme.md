@@ -55,4 +55,4 @@
 [ember](http://emberjs.com/)
 
 - MDN
-[MDN - Web Technologies](https://developer.mozilla.org/en-US/)
+[MDN JavaScript 板块](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
