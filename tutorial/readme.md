@@ -25,4 +25,8 @@ https://github.com/nswbmw/N-blog
 # 前端资源教程
 - [前端资源教程](https://cnodejs.org/topic/56ef3edd532839c33a99d00e)
 
+# react
+
+[React.js 小书](http://huziketang.com/books/react/)
+
 
