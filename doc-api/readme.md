@@ -20,8 +20,9 @@
 [Sass 中文文档](http://www.css88.com/doc/sass/)
 
 - Underscore
+[Underscore API 英文原版](http://underscorejs.org/)
 [Underscore API 中文](http://www.css88.com/doc/underscore/)
-[http://www.bootcss.com/p/underscore/](http://www.bootcss.com/p/underscore/)
+
 
 - Backbone
 [Backbone API 中文(http://www.css88.com/doc/backbone/)
