@@ -132,12 +132,16 @@ CORS全称Cross-Origin Resource Sharing，是 HTML5 规范定义的如何跨域�
 ## 语法糖
 语法糖这个词最早在 Peter J.Landin 的论文中提出的，有意思的是，这个词跟闭包来自同一篇文章（The mechan ical evaluation of expressions，1964）。
 世界上第一个语法糖就是这里的where了：
+```
 xy(x+y)
 where x = a² + a√y
 and y = a² + b²
- 这个写法等价于
+```
+这个写法等价于
+```
 {λ(x,y).xy(x+y))}
 [a² + a√y,a² + b²]
+```
 那么从这个用法和现在社区的用法来看，语法糖有这么2个特征：
 1.运行时等价
 语法糖的英文是 syntactic sugar ,这个 syctactic 学过编译原理的都知道什么意思，显然它是个语法级别的描述，那么它最为明显的特征，就是不涉及运行时变更。
@@ -152,7 +156,9 @@ where(1) {
 ```
  
 这个肯定不等价
+```
 return new lterator(......)
+```
 因为 return 和 while 在语法上不等价，它能出现的位置不一样，这就叫语法改进，而不叫语法糖。
   
 ## 语法盐
