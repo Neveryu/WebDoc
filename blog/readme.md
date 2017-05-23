@@ -9,6 +9,7 @@
 s|[万神劫的博客](http://chaoskeh.com/archive.html)
 s|[李炎恢的博客](http://www.liyanhui.com/)
 s|[使用NexT主题的博客](https://github.com/iissnan/hexo-theme-next/issues/119)
+s|[晚晴幽草轩](http://www.jeffjade.com/)
 
 ```
 更新中...
