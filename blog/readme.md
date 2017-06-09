@@ -11,6 +11,7 @@ s|[李炎恢的博客](http://www.liyanhui.com/)
 s|[使用NexT主题的博客](https://github.com/iissnan/hexo-theme-next/issues/119)
 s|[晚晴幽草轩](http://www.jeffjade.com/)
 s|[https://github.com/creeperyang/blog](https://github.com/creeperyang/blog)
+s|[王垠的博客](http://www.yinwang.org/)
 
 ```
 更新中...
