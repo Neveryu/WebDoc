@@ -25,7 +25,7 @@ W3C规范： 小写 + 短杠
 ||||[前端面试](front-end-developer-interview-questions)|[Muse-UI](http://www.muse-ui.org/#/install)
 |||||[youzan-vant](https://github.com/youzan/vant)
 ||||
-|[知乎](zhihu)|[掘金](juejin)|||
+|[知乎](zhihu)|[掘金](juejin)|||[Github最全的前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 
 
 ```
