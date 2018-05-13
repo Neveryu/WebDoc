@@ -12,6 +12,7 @@ s|[使用NexT主题的博客](https://github.com/iissnan/hexo-theme-next/issues/
 s|[晚晴幽草轩](http://www.jeffjade.com/)
 s|[https://github.com/creeperyang/blog](https://github.com/creeperyang/blog)
 s|[王垠的博客](http://www.yinwang.org/)
+s|[张云龙博客](https://github.com/fouber/blog)
 
 ```
 更新中...
