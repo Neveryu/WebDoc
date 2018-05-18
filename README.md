@@ -10,22 +10,24 @@ W3C规范： 小写 + 短杠
 
 -------------------------------------------------
 
-|||||UI框架|
+|[收藏的文章](post)||||UI框架|
 |:-:|:-:|:-:|:-:|:-:|
+||||
 |[HTML](HTML)<br/>|[CSS](CSS)<br/>|[JavaScript](JavaScript)|[pure photo & 纯净图片](pure-photo)|[didi/cube-ui](https://github.com/didi/cube-ui)|
 ||||
 |[文档API](doc-api)<br/>|[在线工具](online-tool)|||[Bootstrap](http://www.runoob.com/bootstrap/bootstrap-tutorial.html)|
 ||||
-|[收藏的学习教程](tutorial)<br/>|[收藏的文章](post)||[伯乐在线-javascript板块](http://web.jobbole.com/category/javascript-2/)|[ElementUI](http://element-cn.eleme.io/#/zh-CN/component/installation)|
+|[收藏的学习教程](tutorial)<br/>|||[伯乐在线-javascript板块](http://web.jobbole.com/category/javascript-2/)|[ElementUI](http://element-cn.eleme.io/#/zh-CN/component/installation)|
 ||||
 |[博客站点](blog)<br/>|[访谈](interview)<br/>|||[iviewui](https://www.iviewui.com/)|
 ||||
 |[Markdown 语法和 emoji表情](github-markdown)<br/>||||[bulma](https://bulma.io/documentation/overview/start/)|
 ||||
 ||||[前端面试](front-end-developer-interview-questions)|[Muse-UI](http://www.muse-ui.org/#/install)
-|||||[youzan-vant](https://github.com/youzan/vant)
 ||||
-|[知乎](zhihu)|[掘金](juejin)|||[Github最全的前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+|||||[youzan/vant](https://github.com/youzan/vant)
+||||
+|[知乎](zhihu)|[掘金](juejin)||[Github最全的前端资源汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)|[vux](https://vux.li/#/)
 
 
 ```
