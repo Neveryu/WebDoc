@@ -1,7 +1,7 @@
 # WebDoc
 - [ ] Full stack Web developer
 - [ ] Back-end Web developer
-- [ ] Front-end Web developer
+- [x] Front-end Web developer
 
 W3C规范： 小写 + 短杠
 
@@ -13,18 +13,18 @@ ustbhuangyi Vue.js 技术揭秘： https://ustbhuangyi.github.io/vue-analysis/
 
 ---
 
-|[收藏的文章](post)||||UI框架|
+|[收藏的文章](post)|[博客站点](#blog)|||UI框架|
 |:-:|:-:|:-:|:-:|:-:|
 ||||
-|[HTML](HTML)<br/>|[CSS](CSS)<br/>|[JavaScript](JavaScript)|[pure photo & 纯净图片](pure-photo)|[didi/cube-ui](https://github.com/didi/cube-ui)|
+|[HTML](HTML)<br/>|[CSS](CSS)<br/>|[JavaScript](JavaScript)|[pure photo & 纯净图片](pure-photo)|[didi/cube-ui](https://github.com/didi/cube-ui)，基于vue移动端|
 ||||
-|[文档API](doc-api)<br/>|[在线工具](online-tool)|||[Bootstrap](http://www.runoob.com/bootstrap/bootstrap-tutorial.html)|
+|[文档API](doc-api)<br/>|[在线工具](online-tool)|||[Bootstrap](http://www.runoob.com/bootstrap/bootstrap-tutorial.html)，pc响应式|
 ||||
-|[收藏的学习教程](tutorial)<br/>|||[伯乐在线-javascript板块](http://web.jobbole.com/category/javascript-2/)|[ElementUI](http://element-cn.eleme.io/#/zh-CN/component/installation)|
+|[收藏的学习教程](tutorial)<br/>|||[伯乐在线-javascript板块](http://web.jobbole.com/category/javascript-2/)|[ElementUI](http://element-cn.eleme.io/#/zh-CN/component/installation)，基于vue，pc响应式|
 ||||
 |||||[Mint UI](http://mint-ui.github.io/#!/zh-cn)，基于vue.js的移动端组件库|
 ||||
-|[博客站点](blog)<br/>|[访谈](interview)<br/>|||[iviewui](https://www.iviewui.com/)|
+||[访谈](interview)<br/>|||[iviewui](https://www.iviewui.com/)，主要服务于 PC 界面的中后台产品。|
 ||||
 |[Markdown 语法和 emoji表情](github-markdown)<br/>||||[bulma](https://bulma.io/documentation/overview/start/)|
 ||||
@@ -41,13 +41,35 @@ ustbhuangyi Vue.js 技术揭秘： https://ustbhuangyi.github.io/vue-analysis/
 
 [前端圈子的那些事（无聊看看）](web-story)
 
-
+# blog
+技术博客|个人博客|learning plan
+---|---|---
+[腾讯全端 AlloyTeam 团队 Blog](http://www.alloyteam.com/)|[byvoid 网站](https://www.byvoid.com/zhs/blog/list)| -[x] [didi-肖磊](https://github.com/CommanderXL/Biu-blog)
+[好多视频](http://haoduoshipin.com/)|[Layui 作者个人博客](http://sentsin.com/)
+[陈秋歌发布的内容](http://geek.csdn.net/user/publishlist/chenqiuge1984)|[yilia 主题作者 litten 博客](http://litten.me/)
+[dwqs/blog](https://github.com/dwqs/blog)|[阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
+[滴滴团队技术blog](https://github.com/DDFE/DDFE-blog)|[NexT主题作者IIssNan博客](http://notes.iissnan.com/)
+[饿了么前端博客](https://fe.ele.me/)|[玉伯的博客](https://github.com/lifesinger/blog/issues)
+s|[万神劫的博客](http://chaoskeh.com/archive.html)
+s|[李炎恢的博客](http://www.liyanhui.com/)
+s|[使用NexT主题的博客](https://github.com/iissnan/hexo-theme-next/issues/119)
+s|[晚晴幽草轩](http://www.jeffjade.com/)
+s|[https://github.com/creeperyang/blog](https://github.com/creeperyang/blog)
+s|[王垠的博客](http://www.yinwang.org/)
+s|[张云龙博客](https://github.com/fouber/blog)
+s|[天猪部落阁](https://github.com/atian25/blog)
 
 ```
 更新中...
 ```
 
----
+---------------
+[util - 最初的 React](util)
+
+[最难搞的Opera mini浏览器](operamini)
+
+
+----
 
 瀑布的水、逆流成上<br/>
 蒲公英的种子从远处飘回、聚成伞的模样<br/>
@@ -57,9 +79,3 @@ ustbhuangyi Vue.js 技术揭秘： https://ustbhuangyi.github.io/vue-analysis/
 厨房里飘来饭菜的香、你把我的卷子签好名字<br/>
 关掉电视、帮我把书包背上<br/>
 你、还在我身旁
-
----------------
-[util - 最初的 React](util)
-
-[最难搞的Opera mini浏览器](operamini)
-
