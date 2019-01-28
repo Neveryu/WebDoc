@@ -7,7 +7,10 @@ W3C规范： 小写 + 短杠
 
 文件名不得含有空格，文件名不要使用中文，文件建议只使用小写字母，为了醒目，某些说明文件的文件名，可以使用大写字母，比如 README，LICENSE。文件名包含多个单词时，单词之间建议使用半角的连词线(`-`)分隔。
 
+------
+
 Vue技术内幕： http://hcysun.me/vue-design/
+
 ustbhuangyi Vue.js 技术揭秘： https://ustbhuangyi.github.io/vue-analysis/
 
 
@@ -40,31 +43,37 @@ ustbhuangyi Vue.js 技术揭秘： https://ustbhuangyi.github.io/vue-analysis/
 ||||
 |||||[weui]()
 ||||
-|||||[FrozenUI](https://frozenui.github.io/)，是一套基于移动端的UI库
-轻量、精美、遵从手机 QQ 设计规范
+|||||[FrozenUI](https://frozenui.github.io/)，是一套基于移动端的UI库轻量、精美、遵从手机 QQ 设计规范
 ||||
 |||||[Material Design]()
 
 
 [前端圈子的那些事（无聊看看）](web-story)
 
-## blog
-技术博客|个人博客|learning plan
+----------
+## 文章列表
+
+-[ ]  https://philipwalton.com/articles/deploying-es2015-code-in-production-today/
+
+
+## 博客
+技术博客|个人博客|优先级
 ---|---|---
-[腾讯全端 AlloyTeam 团队 Blog](http://www.alloyteam.com/)|[byvoid 网站](https://www.byvoid.com/zhs/blog/list)|- [x] [didi-肖磊](https://github.com/CommanderXL/Biu-blog)
-[好多视频](http://haoduoshipin.com/)|[Layui 作者个人博客](http://sentsin.com/)
+[腾讯全端 AlloyTeam 团队 Blog](http://www.alloyteam.com/)|[byvoid 网站](https://www.byvoid.com/zhs/blog/list)|[didi-肖磊](https://github.com/CommanderXL/Biu-blog)
+[好多视频](http://haoduoshipin.com/)|[Layui 作者个人博客](http://sentsin.com/)|[京东jdc](https://jdc.jd.com/)
 [陈秋歌发布的内容](http://geek.csdn.net/user/publishlist/chenqiuge1984)|[yilia 主题作者 litten 博客](http://litten.me/)
 [dwqs/blog](https://github.com/dwqs/blog)|[阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
 [滴滴团队技术blog](https://github.com/DDFE/DDFE-blog)|[NexT主题作者IIssNan博客](http://notes.iissnan.com/)
 [饿了么前端博客](https://fe.ele.me/)|[玉伯的博客](https://github.com/lifesinger/blog/issues)
-s|[万神劫的博客](http://chaoskeh.com/archive.html)
-s|[李炎恢的博客](http://www.liyanhui.com/)
-s|[使用NexT主题的博客](https://github.com/iissnan/hexo-theme-next/issues/119)
-s|[晚晴幽草轩](http://www.jeffjade.com/)
-s|[https://github.com/creeperyang/blog](https://github.com/creeperyang/blog)
-s|[王垠的博客](http://www.yinwang.org/)
-s|[张云龙博客](https://github.com/fouber/blog)
-s|[天猪部落阁](https://github.com/atian25/blog)
+☆☆[京东jdc](https://jdc.jd.com/)|[万神劫的博客](http://chaoskeh.com/archive.html)
+-|[李炎恢的博客](http://www.liyanhui.com/)
+-|[使用NexT主题的博客](https://github.com/iissnan/hexo-theme-next/issues/119)
+-|[晚晴幽草轩](http://www.jeffjade.com/)
+-|[https://github.com/creeperyang/blog](https://github.com/creeperyang/blog)
+-|[王垠的博客](http://www.yinwang.org/)
+-|[张云龙博客](https://github.com/fouber/blog)
+-|[天猪部落阁](https://github.com/atian25/blog)
+-|[https://philipwalton.com/about/](https://philipwalton.com/about/)
 
 ```
 更新中...
