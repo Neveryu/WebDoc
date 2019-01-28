@@ -48,12 +48,10 @@ ustbhuangyi Vue.js 技术揭秘： https://ustbhuangyi.github.io/vue-analysis/
 |||||[Material Design]()
 
 
-[前端圈子的那些事（无聊看看）](web-story)
-
 ----------
 ## 文章列表
 
--[ ]  https://philipwalton.com/articles/deploying-es2015-code-in-production-today/
+- [ ] 1、 https://philipwalton.com/articles/deploying-es2015-code-in-production-today/
 
 
 ## 博客
