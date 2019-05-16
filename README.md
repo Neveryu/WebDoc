@@ -59,7 +59,7 @@ ustbhuangyi Vue.js 技术揭秘： https://ustbhuangyi.github.io/vue-analysis/
 ---|---|---
 [腾讯全端 AlloyTeam 团队 Blog](http://www.alloyteam.com/)|[byvoid 网站](https://www.byvoid.com/zhs/blog/list)|[didi-肖磊](https://github.com/CommanderXL/Biu-blog)
 [好多视频](http://haoduoshipin.com/)|[Layui 作者个人博客](http://sentsin.com/)|[京东jdc](https://jdc.jd.com/)
-[陈秋歌发布的内容](http://geek.csdn.net/user/publishlist/chenqiuge1984)|[yilia 主题作者 litten 博客](http://litten.me/)
+[陈秋歌发布的内容](http://geek.csdn.net/user/publishlist/chenqiuge1984)|[yilia 主题作者 litten 博客](http://litten.me/)|[http://jartto.wang/](http://jartto.wang/)
 [dwqs/blog](https://github.com/dwqs/blog)|[阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
 [滴滴团队技术blog](https://github.com/DDFE/DDFE-blog)|[NexT主题作者IIssNan博客](http://notes.iissnan.com/)
 [饿了么前端博客](https://fe.ele.me/)|[玉伯的博客](https://github.com/lifesinger/blog/issues)
