@@ -7,19 +7,12 @@ W3C规范： 小写 + 短杠
 
 文件名不得含有空格，文件名不要使用中文，文件建议只使用小写字母，为了醒目，某些说明文件的文件名，可以使用大写字母，比如 README，LICENSE。文件名包含多个单词时，单词之间建议使用半角的连词线(`-`)分隔。
 
-------
-
-Vue技术内幕： http://hcysun.me/vue-design/
-
-ustbhuangyi Vue.js 技术揭秘： https://ustbhuangyi.github.io/vue-analysis/
-
-
 ---
 
-|[收藏的文章](post)|[博客站点](#blog)|||UI框架|
+|[收藏的文章](post)|[博客站点](/#blog)|||UI框架|
 |:-:|:-:|:-:|:-:|:-:|
 ||||
-|[HTML](HTML)<br/>|[CSS](CSS)<br/>|[JavaScript](JavaScript)|[pure photo & 纯净图片](pure-photo)|[didi/cube-ui](https://github.com/didi/cube-ui)，基于vue移动端|
+||[CSS](CSS)<br/>|[JavaScript](JavaScript)|[pure photo & 纯净图片](pure-photo)|[didi/cube-ui](https://github.com/didi/cube-ui)，基于vue移动端|
 ||||
 |[文档API](doc-api)<br/>|[在线工具](online-tool)|||[Bootstrap](http://www.runoob.com/bootstrap/bootstrap-tutorial.html)，pc响应式|
 ||||
@@ -49,13 +42,9 @@ ustbhuangyi Vue.js 技术揭秘： https://ustbhuangyi.github.io/vue-analysis/
 
 
 ----------
-## 文章列表
-
-- [ ] 1、 https://philipwalton.com/articles/deploying-es2015-code-in-production-today/
-
 
 ## 博客
-技术博客|个人博客|优先级
+技术博客|个人博客|MORE
 ---|---|---
 [腾讯全端 AlloyTeam 团队 Blog](http://www.alloyteam.com/)|[byvoid 网站](https://www.byvoid.com/zhs/blog/list)|[didi-肖磊](https://github.com/CommanderXL/Biu-blog)
 [好多视频](http://haoduoshipin.com/)|[Layui 作者个人博客](http://sentsin.com/)|[京东jdc](https://jdc.jd.com/)
@@ -72,12 +61,21 @@ ustbhuangyi Vue.js 技术揭秘： https://ustbhuangyi.github.io/vue-analysis/
 -|[张云龙博客](https://github.com/fouber/blog)
 -|[天猪部落阁](https://github.com/atian25/blog)
 -|[https://philipwalton.com/about/](https://philipwalton.com/about/)
-
-[https://github.com/ljianshu/Blog](https://github.com/ljianshu/Blog)
+-|[https://github.com/ljianshu/Blog](https://github.com/ljianshu/Blog)
+-|[https://github.com/justjavac/the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
 
 ```
 更新中...
 ```
+
+# Learning Pyramid
+
+>- [panjiachen](https://juejin.im/user/5648a5ca60b259caebaf7562)
+>- [coco](https://github.com/chokcoco/iCSS/issues)
+>- [coco](https://chokcoco.github.io/CSS-Inspiration/#/)
+>>- [vue]()
+
+
 
 ---------------
 [util - 最初的 React](util)
