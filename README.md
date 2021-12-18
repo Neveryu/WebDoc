@@ -8,7 +8,7 @@ W3C规范： 小写 + 短杠
 文件名不得含有空格，文件名不要使用中文，文件建议只使用小写字母，为了醒目，某些说明文件的文件名，可以使用大写字母，比如 README，LICENSE。文件名包含多个单词时，单词之间建议使用半角的连词线(`-`)分隔。
 
 ## 名词解释
-关于名词：面包屑导航，鸭子类型 ... 的来由   >>>>  [传送门](https://neveryu.github.io/web-bookmarks)
+关于名词：面包屑导航，鸭子类型 ... 的来由   >>  [传送门](https://neveryu.github.io/web-bookmarks)
 
 ---
 
@@ -43,47 +43,6 @@ W3C规范： 小写 + 短杠
 ||||
 |||||[Material Design]()
 
-
-----------
-
-## 博客
-技术博客|个人博客|MORE
----|---|---
-[腾讯全端 AlloyTeam 团队 Blog](http://www.alloyteam.com/)|[byvoid 网站](https://www.byvoid.com/zhs/blog/list)|[didi-肖磊](https://github.com/CommanderXL/Biu-blog)
-[好多视频](http://haoduoshipin.com/)|[Layui 作者个人博客](http://sentsin.com/)|[京东jdc](https://jdc.jd.com/)
-[陈秋歌发布的内容](http://geek.csdn.net/user/publishlist/chenqiuge1984)|[yilia 主题作者 litten 博客](http://litten.me/)|[http://jartto.wang/](http://jartto.wang/)
-[dwqs/blog](https://github.com/dwqs/blog)|[阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
-[滴滴团队技术blog](https://github.com/DDFE/DDFE-blog)|[NexT主题作者IIssNan博客](http://notes.iissnan.com/)
-[饿了么前端博客](https://fe.ele.me/)|[玉伯的博客](https://github.com/lifesinger/blog/issues)
-☆☆[京东jdc](https://jdc.jd.com/)|[万神劫的博客](http://chaoskeh.com/archive.html)
--|[李炎恢的博客](http://www.liyanhui.com/)
--|[使用NexT主题的博客](https://github.com/iissnan/hexo-theme-next/issues/119)
--|[晚晴幽草轩](http://www.jeffjade.com/)
--|[https://github.com/creeperyang/blog](https://github.com/creeperyang/blog)
--|[王垠的博客](http://www.yinwang.org/)
--|[张云龙博客](https://github.com/fouber/blog)
--|[天猪部落阁](https://github.com/atian25/blog)
--|[https://philipwalton.com/about/](https://philipwalton.com/about/)
--|[https://github.com/ljianshu/Blog](https://github.com/ljianshu/Blog)
--|[https://github.com/justjavac/the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
-
-```
-更新中...
-```
-
-# Learning Pyramid
-
-- [panjiachen](https://juejin.im/user/5648a5ca60b259caebaf7562)
-- [coco](https://github.com/chokcoco/iCSS/issues)
-- [coco](https://chokcoco.github.io/CSS-Inspiration/#/)
-
-
-
------
-
-[util - 最初的 React](util)
-
-[最难搞的Opera mini浏览器](operamini)
 
 -----
 
